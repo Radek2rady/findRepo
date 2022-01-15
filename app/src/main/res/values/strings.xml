@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Find repo</string>
+    <string name="kotlin_json_parser">Repo what name</string>
+    <string name="search">Search</string>
+    <string name="textview">TextView</string>
+    <string name="project_name">Project name</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="view">View</string>
+</resources>
